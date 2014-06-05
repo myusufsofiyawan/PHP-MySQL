@@ -1,3 +1,3 @@
-Very Basic CRUD - PHP with Simple MySQL!
+Very Basic PHP - MySQL, CRUD apps !
 ====
 come on 
