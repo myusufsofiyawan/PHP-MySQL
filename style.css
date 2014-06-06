@@ -1,0 +1,93 @@
+body {
+  font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+  padding-top:20px;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color:#993333;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+
+fieldset{
+	border-radius:90px;
+	border-color:#0033FF;
+	width:40%;
+	text-align:center;
+	color:#0033FF;
+	margin: 0 auto;
+}
+
+fieldset:hover{
+	border-radius:200px;
+	border-color:#CC9933;
+	width:40%;
+	text-align:center;
+	color:#FF0000;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	text-shadow: 0 0 4px #ccc, 0 -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -18px 18px #f20;
+	color:#FF0000;
+}
+
+legend{
+	text-shadow: 0 0 4px #ccc, 0 -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -18px 18px #f20;
+	font-size:42px;
+}
+
+legend:hover{
+	text-shadow: 0 0 4px #ccc, 0 -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -18px 40px #f20,2px -18px 40px #f25;
+	font-size:42px;
+	color:#000000;
+}
+
+input,textarea,select{
+	border-radius:25px;
+	color:#993333;
+	text-align:center;
+}
+
+.moving-type{
+	font-size: 12px;
+	width: 820px;
+	white-space:nowrap;
+	overflow:hidden;
+	-webkit-animation: ketik 5s steps(50, end);
+	animation: ketik 5s steps(50, end);
+}
+ 
+@keyframes ketik{
+	from { width: 0; }
+}
+ 
+@-webkit-keyframes ketik{
+	from { width: 0; }
+}
+
+.moving-type2{	
+	text-align:center;
+	padding-left:12px;
+	font-size: 40px;
+	width: 100%;
+	white-space:nowrap;
+	overflow:hidden;
+	-webkit-animation: type 8s steps(50, end);
+	animation: type 8s steps(50, end);
+}
+ 
+@keyframes type{
+	from { width: 0; }
+}
+ 
+@-webkit-keyframes type{
+	from { width: 0; }
+}
