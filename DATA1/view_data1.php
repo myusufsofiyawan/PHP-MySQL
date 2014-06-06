@@ -14,7 +14,7 @@
   <table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
     <tr>
       <td colspan="7" align="right"><input name="cari" type="text" size="70" id="cari" />
-      <input type="submit" name="Submit" value="Cari" /></td>
+      <input type="submit" name="Submit" value="Name's Search" /></td>
     </tr>
     <tr bgcolor="#D7DAFB">
       <td><div align="center"><strong>No</strong></div></td>
