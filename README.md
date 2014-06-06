@@ -1,10 +1,10 @@
 Description
 =====
-This application is just for beginner PHP.A set of minimum knowledge of PHP language programing. Very Basic PHP - MySQL, CRUD apps !
+This application is just for beginner PHP programmer.Require a set of minimum knowledge of PHP language programing. Very Basic PHP - MySQL, CRUD apps !
 
 Demo
 =====
-Click on [here](https://github.com/opscode-cookbooks/ark) for see the Demo.
+Click on [here](https://www.datazource.url.ph/PHP-MySQL/index.php) for see the Demo.
 
 Requirements
 =====
