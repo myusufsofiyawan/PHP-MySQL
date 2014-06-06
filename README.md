@@ -4,7 +4,7 @@ This application is just for beginner PHP programmer.Require a set of minimum kn
 
 Demo
 =====
-Click on [here](https://www.datazource.url.ph/PHP-MySQL/index.php) for see the Demo.
+Click on [here](http://www.datazource.url.ph/PHP-MySQL/index.php) for see the Demo.
 
 Requirements
 =====
