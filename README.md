@@ -16,3 +16,9 @@ Usage
 * Read list of Record in Database [ View & Search ]
 * Update Record in Database [ Edit ]
 * Delete Record in Database
+
+
+
+WHERE THE VIEW MANNNN
+I WANT TO TRY THIS IN MY HOME
+ASSS HOLEE MANNN
